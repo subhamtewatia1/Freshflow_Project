@@ -95,7 +95,7 @@ A status line shows how many transactions match the current filters. The **Reset
 ## 🛠️ Tech Stack
 
 - **HTML / CSS / JavaScript**: a single, self-contained page
-- **[Chart.js 4.4.1]: draws the charts
+- **[Chart.js 4.4.1]:** draws the charts
 - **Cloudflare Workers**: hosting
 - **Responsive layout**: works on desktop, tablet and mobile
 
