@@ -1,0 +1,6 @@
+Valid Transactions: 4976
+Revenue: 1090255.55
+Gross Profit: 535219.93
+Margin: 49.09 %
+Best Outlet: Outlet A
+Most Profit: Mango Juice

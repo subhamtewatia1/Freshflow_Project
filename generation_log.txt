@@ -1,0 +1,16 @@
+FreshFlow data log (seed 42). Row numbers start at 1.
+
+Missing unit_price (4 rows): [1711, 3312, 3505, 4860]
+Missing unit_cost (4 rows): [763, 1117, 2908, 4840]
+Missing customer_rating (20 rows): [196, 341, 558, 840, 1274, 1435, 2058, 2347, 2964, 3319, 3459, 3571, 3598, 3775, 4093, 4163, 4191, 4377, 4555, 4596]
+Duplicate transaction_id (5 rows): [434, 794, 1942, 4034, 4403]
+Zero or negative quantity (4 rows): [1401, 4246, 4556, 4698]
+Negative unit_price (2 rows): [4024, 4849]
+Negative unit_cost (2 rows): [2944, 3108]
+Discount above 1 (2 rows): [259, 3008]
+Rating outside 1-5 (3 rows): [911, 2761, 4498]
+Category does not match product (4 rows): [2852, 3966, 4349, 4894]
+Unknown outlet code (2 rows): [1565, 4884]
+Very high price (8x normal) (3 rows): [310, 664, 4869]
+Very high discount (60-90%) (5 rows): [1237, 2656, 3397, 3840, 4616]
+Zero stock before the sale (5 rows): [955, 1519, 1964, 2892, 3028]
